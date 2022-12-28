@@ -1,3 +1,6 @@
+<style>
+  import '~/assets/styles/app.styl';
+</style>
 <template>
   <div>
     <h1>Welcome to joepalala.com</h1>
