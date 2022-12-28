@@ -1,6 +1,3 @@
-<style>
- @import url('~
-</style>
 <template>
   <div>
     <h1>Welcome to joepalala.com</h1>
