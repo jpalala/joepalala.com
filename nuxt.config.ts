@@ -4,8 +4,8 @@ export default {
   },
   head: {
      css: [
-       '~/assets/styles/app.styl',
-       '~/assets/css/devicons.min.css'
+       '@/assets/styles/app.styl',
+       '@/assets/css/devicon.min.css'
      ],
   },
 };
